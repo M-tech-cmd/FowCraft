@@ -2,21 +2,6 @@
 
 ---
 
-## 🖼️ Preview
-
-```
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset1.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset2.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset3.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset4.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset5.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset6.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset7.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset8.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset9.png)
-
-```
-
 ## ✨ Why FowCraft Exists
 
 FowCraft is a **full-stack SaaS-style project management platform** built to simulate real-world enterprise workflows.
@@ -198,3 +183,18 @@ MIT License
 
 **Emmanuel Gema Kimani (M-tech-cmd)**
 Full Stack Developer • SaaS Builder • PERN Stack
+
+## 🖼️ Preview
+
+```
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset1.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset2.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset3.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset4.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset5.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset6.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset7.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset8.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset9.png)
+
+```
