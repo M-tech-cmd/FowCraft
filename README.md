@@ -1,7 +1,14 @@
-🚀 FowCraft — Project Management SaaS
+# 🚀 FowCraft — Project Management SaaS
 
-🖼️ Preview
+> Modern full-stack project management platform built with the PERN stack, designed for scalable team collaboration and enterprise-style workflows.
 
+---
+
+## 🖼️ Preview
+
+⚠️ Add screenshots — this is HUGE for recruiters.
+
+```
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset1.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset2.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset3.png)
@@ -12,76 +19,64 @@
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset8.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset9.png)
 
-<<<<<<< HEAD
+
+```
+
 ---
 
 ## ✨ Why FowCraft Exists
 
-FowCraft is a **full-stack SaaS-style project management platform** built to simulate real-world enterprise workflows.
-=======
-✨ Why FowCraft Exists
-
 FowCraft is a full-stack SaaS-style project management platform built to simulate real-world enterprise workflows.
->>>>>>> 0563c99499f34774bf42e3fb10997437af9f7f07
 
 It enables teams to:
 
-Manage multiple workspaces & organizations
+* Manage multiple workspaces & organizations
+* Collaborate on projects and tasks
+* Track progress with analytics
+* Automate workflows via background jobs
+* Scale collaboration using modern architecture
 
-Collaborate on projects and tasks
+This project focuses on **real SaaS engineering patterns**, not just CRUD operations.
 
-Track progress with analytics
+---
 
-Automate workflows via background jobs
+## 🧠 Key Features
 
-Scale collaboration using modern architecture
+### 🏢 Workspace & Organization System
 
-This project focuses on real SaaS engineering patterns, not just CRUD operations.
+* Multiple workspaces
+* Team member invitations
+* Role-based access
 
-🧠 Key Features
+### 📋 Project & Task Management
 
-🏢 Workspace & Organization System
+* Task assignment & due dates
+* Status tracking
+* Team collaboration tools
 
-Multiple workspaces
+### 📊 Analytics Dashboard
 
-Team member invitations
+* Project progress tracking
+* Completion rates
+* Team insights
 
-Role-based access
+### 🔐 Authentication & Security
 
-📋 Project & Task Management
+* Clerk authentication
+* Organization management
+* Secure session handling
 
-Task assignment & due dates
+### 📧 Automation & Background Jobs
 
-Status tracking
+* Email notifications on task assignment
+* Due-date reminders
+* Background workflows via Inngest
 
-Team collaboration tools
+---
 
-📊 Analytics Dashboard
+## 🏗️ Architecture
 
-Project progress tracking
-
-Completion rates
-
-Team insights
-
-🔐 Authentication & Security
-
-Clerk authentication
-
-Organization management
-
-Secure session handling
-
-📧 Automation & Background Jobs
-
-Email notifications on task assignment
-
-Due-date reminders
-
-Background workflows via Inngest
-
-🏗️ Architecture
-
+```
 Frontend (React + Redux)
         ↓
 Express API Server
@@ -92,62 +87,71 @@ Background Jobs (Inngest)
         ↓
 Authentication (Clerk)
 
+```
 
 This architecture mirrors real-world SaaS platforms.
 
-🛠️ Tech Stack
+---
 
-Frontend
+## 🛠️ Tech Stack
 
-React.js
+### Frontend
 
-Tailwind CSS
+* React.js
+* Tailwind CSS
+* Redux Toolkit
+* Lucide React
 
-Redux Toolkit
+### Backend
 
-Lucide React
+* Node.js
+* Express.js
+* PostgreSQL (Neon)
 
-Backend
+### SaaS Infrastructure
 
-Node.js
+* Clerk Authentication
+* Inngest Background Jobs
+* Vercel Deployment
 
-Express.js
+---
 
-PostgreSQL (Neon)
+## ⚡ Getting Started
 
-SaaS Infrastructure
+### 1️⃣ Clone Repo
 
-Clerk Authentication
-
-Inngest Background Jobs
-
-Vercel Deployment
-
-⚡ Getting Started
-
-1️⃣ Clone Repo
-
-git clone https://github.com/M-tech-cmd/FowCraft.git 
+```
+git clone https://github.com/fowcraft.git
 cd fowcraft
 
+```
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
+```
 npm install
 
+```
 
-3️⃣ Run Development Server
+### 3️⃣ Run Development Server
 
+```
 npm run dev
 
+```
 
 Open:
 
+```
 http://localhost:5173
 
+```
 
-📂 Project Structure
+---
 
+## 📂 Project Structure
+
+```
 fowcraft/
 ├─ src/
 │  ├─ components/
@@ -159,39 +163,41 @@ fowcraft/
 ├─ public/
 └─ README.md
 
+```
 
-🚀 Production-Level Concepts Demonstrated
+---
+
+## 🚀 Production-Level Concepts Demonstrated
 
 This project showcases:
 
-SaaS-style architecture
+* SaaS-style architecture
+* Organization-based data structure
+* Scalable state management
+* Background event workflows
+* Email automation systems
+* Deployment-ready backend patterns
 
-Organization-based data structure
+---
 
-Scalable state management
-
-Background event workflows
-
-Email automation systems
-
-Deployment-ready backend patterns
-
-🤝 Contributing
+## 🤝 Contributing
 
 PRs are welcome.
 
-Fork the repo
+1. Fork the repo
+2. Create feature branch
+3. Commit changes
+4. Open Pull Request
 
-Create feature branch
+---
 
-Commit changes
-
-Open Pull Request
-
-📜 License
+## 📜 License
 
 MIT License
 
-👨‍💻 Author
+---
 
-Emmanuel Gema Kimani (M-tech-cmd)Full Stack Developer • SaaS Builder • PERN Stack
+## 👨‍💻 Author
+
+**Emmanuel Gema Kimani (M-tech-cmd)**
+Full Stack Developer • SaaS Builder • PERN Stack
