@@ -1,4 +1,4 @@
-# 🚀 FowCraft — Project Management SaaS
+<img width="952" height="476" alt="preset6" src="https://github.com/user-attachments/assets/6504bde3-9e66-4db0-bed8-4ef73606a64e" /># 🚀 FowCraft — Project Management SaaS
 
 
 ## 🖼️ Preview
@@ -8,11 +8,10 @@
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset3.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset4.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset5.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset6.png)
-![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset7.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client\src\assets\img\preset6.png)
+![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99\client\src\assets\img\preset7.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset8.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset9.png)
-
 
 ---
 
