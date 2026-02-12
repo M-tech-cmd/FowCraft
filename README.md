@@ -1,10 +1,8 @@
 # 🚀 FowCraft — Project Management SaaS
 
----
 
 ## 🖼️ Preview
 
-```
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset1.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset2.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset3.png)
@@ -15,7 +13,8 @@
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset8.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/ed06384e34aeed1e355bd6ba810c531173113d99/client/src/assets/img/preset9.png)
 
-```
+
+---
 
 ## ✨ Why FowCraft Exists
 
