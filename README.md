@@ -1,14 +1,9 @@
 # 🚀 FowCraft — Project Management SaaS
 
-> Modern full-stack project management platform built with the PERN stack, designed for scalable team collaboration and enterprise-style workflows.
-
 ---
 
 ## 🖼️ Preview
 
-⚠️ Add screenshots — this is HUGE for recruiters.
-
-```
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset1.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset2.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset3.png)
@@ -18,9 +13,6 @@
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset7.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset8.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset9.png)
-
-
-```
 
 ---
 
