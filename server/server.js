@@ -4,6 +4,11 @@ import cors from 'cors';
 import { clerkMiddleware } from '@clerk/express';
 import { inngest, functions } from './inngest/index.js';
 import { serve } from "inngest/express";
+import workspaceRouter from "./routes/workspaceRoutes.js";
+import projectRouter from "./routes/projectRoutes.js";
+import taskRouter from "./routes/taskRoutes.js";
+import commentRouter from "./routes/commentRoutes.js";
+import { protect } from './middlewares/authMiddleware.js';
 
 const app = express();
 
@@ -18,6 +23,12 @@ app.get('/', (req, res) => {
 
 // Inngest Webhook route
 app.use("/api/inngest", serve({ client: inngest, functions }));
+
+// Routes
+app.use("/api/workspaces", protect, workspaceRouter);
+app.use("/api/projects", protect, projectRouter);
+app.use("/api/tasks", protect, taskRouter);
+app.use("/api/comments", protect, commentRouter);
 
 // Local development only: Vercel ignores this block in production
 if (process.env.NODE_ENV !== 'production') {
