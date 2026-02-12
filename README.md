@@ -1,12 +1,8 @@
 # 🚀 FowCraft — Project Management SaaS
 
-> **Modern full-stack project management platform built with the PERN stack, designed for scalable team collaboration and enterprise-style workflows.**
-
 ---
 
 ## 🖼️ Preview
-
-> ⚠️ Add screenshots — this is HUGE for recruiters.
 
 ```
 ![Dashboard](./public/dashboard.png)
