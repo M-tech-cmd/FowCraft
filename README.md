@@ -12,61 +12,76 @@
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset8.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset9.png)
 
+<<<<<<< HEAD
 ---
 
 ## ✨ Why FowCraft Exists
 
 FowCraft is a **full-stack SaaS-style project management platform** built to simulate real-world enterprise workflows.
+=======
+✨ Why FowCraft Exists
+
+FowCraft is a full-stack SaaS-style project management platform built to simulate real-world enterprise workflows.
+>>>>>>> 0563c99499f34774bf42e3fb10997437af9f7f07
 
 It enables teams to:
 
-* Manage multiple workspaces & organizations
-* Collaborate on projects and tasks
-* Track progress with analytics
-* Automate workflows via background jobs
-* Scale collaboration using modern architecture
+Manage multiple workspaces & organizations
 
-This project focuses on **real SaaS engineering patterns**, not just CRUD operations.
+Collaborate on projects and tasks
 
----
+Track progress with analytics
 
-## 🧠 Key Features
+Automate workflows via background jobs
 
-### 🏢 Workspace & Organization System
+Scale collaboration using modern architecture
 
-* Multiple workspaces
-* Team member invitations
-* Role-based access
+This project focuses on real SaaS engineering patterns, not just CRUD operations.
 
-### 📋 Project & Task Management
+🧠 Key Features
 
-* Task assignment & due dates
-* Status tracking
-* Team collaboration tools
+🏢 Workspace & Organization System
 
-### 📊 Analytics Dashboard
+Multiple workspaces
 
-* Project progress tracking
-* Completion rates
-* Team insights
+Team member invitations
 
-### 🔐 Authentication & Security
+Role-based access
 
-* Clerk authentication
-* Organization management
-* Secure session handling
+📋 Project & Task Management
 
-### 📧 Automation & Background Jobs
+Task assignment & due dates
 
-* Email notifications on task assignment
-* Due-date reminders
-* Background workflows via Inngest
+Status tracking
 
----
+Team collaboration tools
 
-## 🏗️ Architecture
+📊 Analytics Dashboard
 
-```
+Project progress tracking
+
+Completion rates
+
+Team insights
+
+🔐 Authentication & Security
+
+Clerk authentication
+
+Organization management
+
+Secure session handling
+
+📧 Automation & Background Jobs
+
+Email notifications on task assignment
+
+Due-date reminders
+
+Background workflows via Inngest
+
+🏗️ Architecture
+
 Frontend (React + Redux)
         ↓
 Express API Server
@@ -77,75 +92,62 @@ Background Jobs (Inngest)
         ↓
 Authentication (Clerk)
 
-```
 
 This architecture mirrors real-world SaaS platforms.
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+Frontend
 
-### Frontend
+React.js
 
-* React.js
-* Tailwind CSS
-* Redux Toolkit
-* Lucide React
+Tailwind CSS
 
-### Backend
+Redux Toolkit
 
-* Node.js
-* Express.js
-* PostgreSQL (Neon)
+Lucide React
 
-### SaaS Infrastructure
+Backend
 
-* Clerk Authentication
-* Inngest Background Jobs
-* Vercel Deployment
+Node.js
 
----
+Express.js
 
-## ⚡ Getting Started
+PostgreSQL (Neon)
 
-### 1️⃣ Clone Repo
+SaaS Infrastructure
 
-```
+Clerk Authentication
+
+Inngest Background Jobs
+
+Vercel Deployment
+
+⚡ Getting Started
+
+1️⃣ Clone Repo
+
 git clone https://github.com/M-tech-cmd/FowCraft.git 
 cd fowcraft
 
-```
 
----
+2️⃣ Install Dependencies
 
-### 2️⃣ Install Dependencies
-
-```
 npm install
 
-```
 
----
+3️⃣ Run Development Server
 
-### 3️⃣ Run Development Server
-
-```
 npm run dev
 
-```
 
 Open:
 
-```
 http://localhost:5173
 
-```
 
----
+📂 Project Structure
 
-## 📂 Project Structure
-
-```
 fowcraft/
 ├─ src/
 │  ├─ components/
@@ -157,41 +159,39 @@ fowcraft/
 ├─ public/
 └─ README.md
 
-```
 
----
-
-## 🚀 Production-Level Concepts Demonstrated
+🚀 Production-Level Concepts Demonstrated
 
 This project showcases:
 
-* SaaS-style architecture
-* Organization-based data structure
-* Scalable state management
-* Background event workflows
-* Email automation systems
-* Deployment-ready backend patterns
+SaaS-style architecture
 
----
+Organization-based data structure
 
-## 🤝 Contributing
+Scalable state management
+
+Background event workflows
+
+Email automation systems
+
+Deployment-ready backend patterns
+
+🤝 Contributing
 
 PRs are welcome.
 
-1. Fork the repo
-2. Create feature branch
-3. Commit changes
-4. Open Pull Request
+Fork the repo
 
----
+Create feature branch
 
-## 📜 License
+Commit changes
+
+Open Pull Request
+
+📜 License
 
 MIT License
 
----
+👨‍💻 Author
 
-## 👨‍💻 Author
-
-**Emmanuel Gema Kimani (M-tech-cmd)**
-Full Stack Developer • SaaS Builder • PERN Stack
+Emmanuel Gema Kimani (M-tech-cmd)Full Stack Developer • SaaS Builder • PERN Stack
